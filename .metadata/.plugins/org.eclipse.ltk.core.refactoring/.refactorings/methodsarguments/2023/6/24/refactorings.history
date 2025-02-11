@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;methodsarguments.methodargumentsinstead&apos; to &apos;Method_Variable_Arguments&apos;&#x0D;&#x0A;- Original project: &apos;methodsarguments&apos;&#x0D;&#x0A;- Original element: &apos;methodsarguments.methodargumentsinstead&apos;&#x0D;&#x0A;- Renamed element: &apos;methodsarguments.Method_Variable_Arguments&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;methodargumentsinstead&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;methodsarguments{methodargumentsinstead.java[methodargumentsinstead" matchStrategy="1" name="Method_Variable_Arguments" qualified="false" references="true" similarDeclarations="false" stamp="1686468991204" textual="false" version="1.0"/>
+</session>
