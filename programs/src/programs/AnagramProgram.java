@@ -8,6 +8,7 @@ import java.util.Arrays;
 public class AnagramProgram {
 	public static void main(String[] args) {
 		String s1="care";
+		
 		String s2="race";
 		if(s1.length()==s2.length()) {
 			char[] c1=s1.toCharArray();
