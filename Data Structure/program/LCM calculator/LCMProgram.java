@@ -20,8 +20,6 @@ public class LCMProgram {
         System.out.println("Enter 2 numbers : ");
         int a=scanner.nextInt();
         int b=scanner.nextInt();
-        System.out.println("The LCM of "+a+" "+b+" is "+lcm(a, b));
-        
-
+        System.out.println("The LCM of "+a+" "+b+" is "+lcm(a, b));     
     }
 }

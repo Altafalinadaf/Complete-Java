@@ -30,6 +30,4 @@ public class HappyNumber {
 		}
 		scanner.close();
 	}
-
-
 }

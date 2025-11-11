@@ -37,11 +37,9 @@ public class Binary_Search_Algorithms {
 				right=mid-1;
 			}
 		}
-	
-		
+
 		System.out.println(target+" not found in the array");
-		
-		
+				
 	}
 
 }
