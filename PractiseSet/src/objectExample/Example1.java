@@ -4,10 +4,12 @@ class A extends Object{
 	void hi() {
 		System.out.println("Hi from A");
 	}
+	@Override
 	public String toString() {
 		return "HiHI";
 	}
 	
+	@Override
 	public int hashCode() {
 		return 123;
 	}

@@ -4,9 +4,13 @@ class Employee{
 	String empName;
 	int empAge;
 	double empSal;
+
+	static {
+		System.out.println("this  is me");
+	}
 	
 	public Employee(String empName,int empAge,double empSal) {
-		// TODO Auto-generated constructor stub
+		
 		this.empName=empName;
 		this.empAge=empAge;
 		this.empSal=empSal;
@@ -29,12 +33,13 @@ class FullTimeEmp extends Employee{
 	double allowance;
 	
 	public FullTimeEmp(String empName,int empAge,double empSal,double bonus,double allowance) {
-		// TODO Auto-generated constructor stub
+		
 		super(empName, empAge, empSal);
 		this.allowance=allowance;
 		this.bonus=bonus;
 	}
 	
+	@Override
 	double calculateSal() {
 		return empSal+bonus+allowance;
 	}
@@ -47,12 +52,13 @@ class PartTimeEmp extends Employee{
 	double ratePerHours;
 	
 	public PartTimeEmp(String empName,int empAge,int hours,double ratePerHours) {
-		// TODO Auto-generated constructor stub
+		
 		super(empName, empAge, 0);
 		this.hours=hours;
 		this.ratePerHours=ratePerHours;
 	}
 	
+	@Override
 	double calculateSal() {
 		return hours*ratePerHours;
 	}
@@ -64,8 +70,13 @@ public class TestEmployee {
 		fullTimeEmp.empDetails();
 		System.out.println(fullTimeEmp.calculateSal());
 		
-		PartTimeEmp partTimeEmp=new PartTimeEmp(null, 0, 0, 0)
+		PartTimeEmp partTimeEmp = new PartTimeEmp("John", 22, 120, 250);
+		partTimeEmp.empDetails();
+		System.out.println(partTimeEmp.calculateSal());
 		
+		Employee employee=new Employee("Ethnotech", 30, 60000);
+		employee.empDetails();
+		System.out.println(employee.calculateSal());
 	}
 
 }
