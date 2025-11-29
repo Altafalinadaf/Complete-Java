@@ -15,6 +15,7 @@ public class Example1 {
 		System.out.println(list);
 		
 //		how to insert element inside list
+//		inserting element at index 1 shifting other elements
 		list.add(1,"Iron Man");
 		System.out.println(list);
 		
@@ -31,10 +32,25 @@ public class Example1 {
 		list.remove(0);
 		System.out.println(list);
 		
+		list.add("thor");
+		list.add("america");
+		list.add("wonda");
+		list.add("hulk");
+		for(int i=0;i<list.size();i++) {
+			System.out.print(list.get(i)+" ");
+		}
+		System.out.println();
+		
+//		we can also use foreach loop 
+		for (String x : list) {
+			System.out.print(x+ " ");
+		}
+		System.out.println();
 		
 //		how to clear list
 		list.clear();
 		System.out.println(list);
+		
 		
 		
 	}
