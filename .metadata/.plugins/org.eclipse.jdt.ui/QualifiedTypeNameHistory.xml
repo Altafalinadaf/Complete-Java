@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="encapsulationExample.FaceBook"/>
-    <fullyQualifiedTypeName name="javax.crypto.interfaces.PBEKey"/>
-    <fullyQualifiedTypeName name="javax.swing.DefaultRowSorter"/>
-    <fullyQualifiedTypeName name="exceptionHandling.Example2"/>
-    <fullyQualifiedTypeName name="exceptionHandling.ShadiException"/>
-    <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
-    <fullyQualifiedTypeName name="exceptionHandling.Example3"/>
-    <fullyQualifiedTypeName name="java.lang.Throwable"/>
     <fullyQualifiedTypeName name="exceptionHandling.ATMException"/>
     <fullyQualifiedTypeName name="moreVotingAlg.Example1"/>
     <fullyQualifiedTypeName name="java.lang.Number"/>
@@ -39,7 +31,6 @@
     <fullyQualifiedTypeName name="javax.naming.StringRefAddr"/>
     <fullyQualifiedTypeName name="java.util.Comparator"/>
     <fullyQualifiedTypeName name="arrayList.Student"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="java.util.LinkedList"/>
     <fullyQualifiedTypeName name="java.lang.ArrayStoreException"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
@@ -53,11 +44,20 @@
     <fullyQualifiedTypeName name="java.nio.channels.Pipe.SourceChannel"/>
     <fullyQualifiedTypeName name="java.lang.InterruptedException"/>
     <fullyQualifiedTypeName name="thread.Example4"/>
-    <fullyQualifiedTypeName name="java.lang.Thread"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="basicProject.TodoListProject"/>
-    <fullyQualifiedTypeName name="java.lang.StringIndexOutOfBoundsException"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.lang.IndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="synchronize.BankAccount"/>
+    <fullyQualifiedTypeName name="synchronize.User"/>
+    <fullyQualifiedTypeName name="java.lang.StringIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="practice.User"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="practice.BankAccount"/>
+    <fullyQualifiedTypeName name="practice.ATM"/>
+    <fullyQualifiedTypeName name="practice.UPI"/>
+    <fullyQualifiedTypeName name="practice.NetBanking"/>
+    <fullyQualifiedTypeName name="practice.BankTeller"/>
 </qualifiedTypeNameHistroy>

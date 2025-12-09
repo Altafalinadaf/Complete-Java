@@ -17,7 +17,7 @@ public class Example2 {
 	    list.add(Integer.valueOf(4));
 		System.out.println(list);
 		
-//		it will mot remove the value 1, it removes values of index 1
+//		it will not remove the value 1, it removes values of index 1
 //		remove method will take index value as well object value
 		list.remove(1);
 		System.out.println(list);
