@@ -14,28 +14,54 @@ class OpeningAccount{
 		this.city=city;
 		
 	}
-	static void deposite() {
-		System.out.println("Deposite");
-	}
+	
 	
 	
 }
 
 class SavingAccount extends OpeningAccount{
+
 	public SavingAccount(String name, long phno, int age, String city) {
 		super(name, phno, age, city);
 		// TODO Auto-generated constructor stub
 	}
-
-	void disp() {
-		SavingAccount.deposite();
+	
+	{
+		System.out.println("Saving account is opened");
 	}
+	
+	void dispInfor() {
+		System.out.println("Name = "+name+"\n"+"Phone = "+phno+"\n"+"Age = "+age+"\n"+"City = "+city);
+	}
+	
+	
+
+
+}
+
+class CurrentAccount extends OpeningAccount{
+
+	public CurrentAccount(String name, long phno, int age) {
+		super(name, phno, age, "default value");
+		// TODO Auto-generated constructor stub
+	}
+	{
+		System.out.println("Current account is opened");
+	}
+	void dispInfor() {
+		System.out.println("Name = "+name+"\n"+"Phone = "+phno+"\n"+"Age = "+age);
+	}
+	
 }
 
 
 
 public class InheritenceExample {
 	public static void main(String[] args) {
+		SavingAccount savingAccount=new SavingAccount("Raj", 78529631, 24, "Gulbarga");
+		savingAccount.dispInfor();
 		
+		CurrentAccount currentAccount=new CurrentAccount("Raj", 78529631, 24);
+		currentAccount.dispInfor();
 	}
 }

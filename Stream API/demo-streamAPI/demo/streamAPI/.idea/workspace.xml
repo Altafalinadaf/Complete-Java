@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="57cc8c8d-580f-49bd-9696-c7e883d6a3e6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../.idea/Java-Complete-main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../PractiseSet/src/threadExample/TestSingleThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../stream-api/src/StreamObjec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../encapsulation/encapsulation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../encapsulation/src/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../encapsulation/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../interfaceExamples/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../threads/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../threads/src/synchronize/String.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../.metadata/.lock_info" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.metadata/.lock_info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../.metadata/.plugins/org.eclipse.buildship.core/gradle/versions.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.metadata/.plugins/org.eclipse.buildship.core/gradle/versions.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../.metadata/.plugins/org.eclipse.core.resources/.projects/PractiseSet/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.metadata/.plugins/org.eclipse.core.resources/.projects/PractiseSet/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../.metadata/.plugins/org.eclipse.core.resources/.projects/PractiseSet/org.eclipse.jdt.core/state.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.metadata/.plugins/org.eclipse.core.resources/.projects/PractiseSet/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../.metadata/.plugins/org.eclipse.debug.core/.launches/example1.launch" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.metadata/.plugins/org.eclipse.debug.core/.launches/example1.launch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../.metadata/.plugins/org.eclipse.jdt.core/1865797976.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.metadata/.plugins/org.eclipse.jdt.core/1865797976.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../.metadata/.plugins/org.eclipse.jdt.core/2039801462.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.metadata/.plugins/org.eclipse.jdt.core/2039801462.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../.metadata/version.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.metadata/version.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Program.java/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../threads/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Program.java/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../interfaceExamples/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Program.java/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../interfaceExamples/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Program.java/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../interfaceExamples/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../inheritenceExample/src/inheritenceExample/InheritenceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../inheritenceExample/src/inheritenceExample/InheritenceExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../thread/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../interfaceExamples/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../thread/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../interfaceExamples/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../thread/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../threads/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../thread/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../threads/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../thread/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../threads/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../thread/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../threads/src/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../thread/src/practice/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../threads/src/practice/Example1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../thread/src/practice/Example2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../threads/src/practice/Example2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../thread/src/synchronize/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../threads/src/synchronize/Example1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../thread/src/synchronize/RealTimeExampleSyncronize.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../threads/src/synchronize/RealTimeExampleSyncronize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../thread/src/thread/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../threads/src/thread/Example1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../thread/src/thread/Example2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../threads/src/thread/Example2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../thread/src/thread/Example3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../threads/src/thread/Example3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../thread/src/thread/Example4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../threads/src/thread/Example4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../thread/src/threadExample/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../threads/src/threadExample/Example1.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="37C7oa7et5FcH1ajAlCTHIr1joi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/altaf/Java-Complete-main/Stream API/demo-streamAPI/demo/streamAPI/src/Main.java",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.138" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.29346.138" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57cc8c8d-580f-49bd-9696-c7e883d6a3e6" name="Changes" comment="" />
+      <created>1766395377599</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1766395377599</updated>
+      <workItem from="1766395379583" duration="714000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
