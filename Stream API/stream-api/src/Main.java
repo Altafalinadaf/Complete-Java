@@ -1,13 +1,11 @@
 import java.util.ArrayList;
 import java.util.List;
-import java.util.stream.Collector;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) { 
 
         List<Integer> list1=new ArrayList<>();
         list1.add(40);
@@ -32,6 +30,9 @@ public class Main {
         Stream<Integer> stream=list1.stream();
         List<Integer> evenList2=stream.filter(i->i%2==0).collect(Collectors.toList());
         System.out.println(evenList2);
+
+        // writing in a single, we are not storing it anywhere we just printing 
+        System.out.println("Odd list = "+list1.stream().filter(i->i%2!=0).toList());
 
         List<Integer> evenList3 = list1.stream().filter(i->i%2==0).collect
                 (Collectors.toUnmodifiableList());
