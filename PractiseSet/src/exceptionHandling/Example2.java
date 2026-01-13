@@ -28,7 +28,7 @@ public class Example2 {
 		}
 		else {
 			
-			throw new ShadiException("Invalid age");
+			throw new ShadiException("Invalid age!!");
 		}
 		
 	}
