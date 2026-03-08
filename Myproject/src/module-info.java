@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author altaf
+ *
+ */
+module Myproject {
+}
