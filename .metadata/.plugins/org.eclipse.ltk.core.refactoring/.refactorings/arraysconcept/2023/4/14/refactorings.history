@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;arraysconcept.even_or_odd_using&apos; to &apos;even_or_odd_using_array&apos;&#x0D;&#x0A;- Original project: &apos;arraysconcept&apos;&#x0D;&#x0A;- Original element: &apos;arraysconcept.even_or_odd_using&apos;&#x0D;&#x0A;- Renamed element: &apos;arraysconcept.even_or_odd_using_array&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;even_or_odd_using&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;arraysconcept{even_or_odd_using.java[even_or_odd_using" matchStrategy="1" name="even_or_odd_using_array" qualified="false" references="true" similarDeclarations="false" stamp="1680866025352" textual="false" version="1.0"/>
+</session>

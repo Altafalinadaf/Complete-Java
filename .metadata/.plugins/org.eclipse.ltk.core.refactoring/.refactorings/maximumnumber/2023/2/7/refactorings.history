@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;maximumnumber.inegernumber&apos; to &apos;integernumber&apos;&#x0D;&#x0A;- Original project: &apos;maximumnumber&apos;&#x0D;&#x0A;- Original element: &apos;maximumnumber.inegernumber&apos;&#x0D;&#x0A;- Renamed element: &apos;maximumnumber.integernumber&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;inegernumber&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;maximumnumber{inegernumber.java[inegernumber" matchStrategy="1" name="integernumber" qualified="false" references="true" similarDeclarations="false" stamp="1676535701962" textual="false" version="1.0"/>
+</session>
