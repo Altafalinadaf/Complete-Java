@@ -1,4 +1,6 @@
 activate=true
+activateError=true
+activateWarn=false
 column2=300
 column3=150
 column4=150
