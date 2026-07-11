@@ -5,6 +5,16 @@ import java.util.List;
 
 public class Example2 {
 	public static void main(String[] args) {
+		
+		
+		List list4=new ArrayList<>();
+		list4.add(false);
+		list4.add(4);
+		list4.add("hello");
+		
+		System.out.println(list4.remove(Integer.valueOf(4)));
+		System.out.println(list4.remove(false));
+		System.out.println(list4);
 		ArrayList<Integer> list=new ArrayList<Integer>();
 		
 //		auto boxing
@@ -13,6 +23,7 @@ public class Example2 {
 	    list.add(1);
 	    list.add(2);
 	    list.add(3);
+	  
 //	    by default it add like this using auto boxing 
 	    list.add(Integer.valueOf(4));
 		System.out.println(list);
@@ -33,6 +44,8 @@ public class Example2 {
 		list2.add("iron man");
 		list2.add("Thor");
 		list2.add("captain america");
+		
+		
 		
 		System.out.println(list2);
 		

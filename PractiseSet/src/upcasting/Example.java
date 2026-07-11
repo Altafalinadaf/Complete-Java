@@ -22,7 +22,8 @@ public class Example {
 		s2.hello();
 		
 	
-		s1 = s2;
+		s1= s2;
+		
 		
 
 		

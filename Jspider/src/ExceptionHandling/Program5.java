@@ -6,9 +6,7 @@ import java.util.Scanner;
 // and throws an exception if the number is odd.
 
 class OddException extends Exception{
-	/**
-	 * 
-	 */
+
 	private static final long serialVersionUID = 1L;
 	String message;
 	

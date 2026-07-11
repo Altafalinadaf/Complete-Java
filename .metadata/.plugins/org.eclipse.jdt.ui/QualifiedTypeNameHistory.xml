@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
-    <fullyQualifiedTypeName name="java.lang.IndexOutOfBoundsException"/>
-    <fullyQualifiedTypeName name="synchronize.BankAccount"/>
-    <fullyQualifiedTypeName name="synchronize.User"/>
-    <fullyQualifiedTypeName name="java.lang.StringIndexOutOfBoundsException"/>
-    <fullyQualifiedTypeName name="practice.User"/>
-    <fullyQualifiedTypeName name="practice.BankAccount"/>
-    <fullyQualifiedTypeName name="practice.ATM"/>
-    <fullyQualifiedTypeName name="practice.UPI"/>
     <fullyQualifiedTypeName name="practice.NetBanking"/>
     <fullyQualifiedTypeName name="practice.BankTeller"/>
     <fullyQualifiedTypeName name="threadExample.Demo"/>
     <fullyQualifiedTypeName name="java.lang.Runnable"/>
     <fullyQualifiedTypeName name="threadExample.Test"/>
-    <fullyQualifiedTypeName name="java.lang.Object"/>
     <fullyQualifiedTypeName name="inheritenceExample.OpeningAccount"/>
     <fullyQualifiedTypeName name="inheritenceExample.SavingAccount"/>
     <fullyQualifiedTypeName name="inheritenceExample.CurrentAccount"/>
@@ -30,7 +20,6 @@
     <fullyQualifiedTypeName name="lamdaExpression.Payment"/>
     <fullyQualifiedTypeName name="java.time.temporal.TemporalAmount"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="demo.Exception2"/>
     <fullyQualifiedTypeName name="java.lang.Exception"/>
     <fullyQualifiedTypeName name="demo.Check"/>
@@ -47,7 +36,6 @@
     <fullyQualifiedTypeName name="withgenericexample.Box"/>
     <fullyQualifiedTypeName name="com.keypairvalue.genericexample.PairValue"/>
     <fullyQualifiedTypeName name="com.generic.interfaceexamples.Container"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="com.generic.interfaceexamples.GenericContainer"/>
     <fullyQualifiedTypeName name="java.lang.Number"/>
     <fullyQualifiedTypeName name="com.generic.boundparametersexample.Printable"/>
@@ -57,7 +45,19 @@
     <fullyQualifiedTypeName name="com.generic.boundparametersexample.GenericClass"/>
     <fullyQualifiedTypeName name="com.generic.constructorexample.Box"/>
     <fullyQualifiedTypeName name="com.generic.methodexample.GenericMethod"/>
-    <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="java.nio.channels.InterruptedByTimeoutException"/>
     <fullyQualifiedTypeName name="com.junit.withoutjunit.Calculator"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="upcasting.SuperClass"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.lang.InstantiationError"/>
+    <fullyQualifiedTypeName name="downandupcasting.Insta"/>
+    <fullyQualifiedTypeName name="downandupcasting.Insta2"/>
+    <fullyQualifiedTypeName name="downandupcasting.InstagramUser"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="downandupcasting.CreatorAccount"/>
+    <fullyQualifiedTypeName name="downandupcasting.BusinessAccount2"/>
 </qualifiedTypeNameHistroy>

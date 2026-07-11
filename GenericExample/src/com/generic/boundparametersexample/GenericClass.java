@@ -17,7 +17,6 @@ public class GenericClass extends Number implements Printable{
 	}
 
 	
-
 	@Override
 	public int intValue() {
 		// TODO Auto-generated method stub
@@ -40,7 +39,6 @@ public class GenericClass extends Number implements Printable{
 	public double doubleValue() {
 		// TODO Auto-generated method stub
 		return value;
-	}
-	
+	}	
 
 }

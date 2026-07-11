@@ -48,6 +48,11 @@ public class RealTimeExampleSyncronize {
 		
 		user1.start();
 		user2.start();
+		try {
+			user1.join();
+			user2.join();
+		} catch (Exception e) {
+		}
 		
 		
 		

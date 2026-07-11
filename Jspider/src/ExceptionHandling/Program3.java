@@ -30,5 +30,4 @@ public class Program3 {
 			System.out.println(e.getMessage());
 		}
 	}
-
 }

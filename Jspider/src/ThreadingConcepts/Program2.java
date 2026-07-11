@@ -8,17 +8,18 @@ class Sample2 extends Thread{
 		System.out.println("Hi");
 	}
 	// even though if we not write then also its take by default 
-	// we have to call the start() in start() we have the the run() it take automatically we just need to call the start()
+	// we have to call the start() in start() we have the the run() it take automatically 
+	// we just need to call the start()
 	// even we can call run() also or start method
-//	public void start() {
-//		run();
-//	}
+	public void start() {
+		run();
+	}
 }
 
 public class Program2 {
 	public static void main(String[] args) {
 		Sample2 s1=new Sample2();
 		Thread t1=new Thread(s1);
-		t1.run();
+		t1.start();
 	}
 }
