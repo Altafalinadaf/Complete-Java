@@ -1,7 +1,7 @@
 package Access_and_Modify_Constructor;
 
 //create a class cylinder and use getter and setters to set its radius and height 
-
+// Cylinder class
 class Cylinder{
 	private int radius;
 	private int height;
